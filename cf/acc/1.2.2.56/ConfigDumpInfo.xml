@@ -410,8 +410,8 @@
 		<Metadata name="CommonModule.РаботаСВнешнимСоединением.Module" id="dbda117f-bb63-431b-8662-af9098dfd8fb.0" configVersion="d6d0461ef2e68349b71704a96e664f6e00000000"/>
 		<Metadata name="CommonModule.РаботаСИнтерфейсом" id="fe610532-debc-4952-93a8-266823cc4c92" configVersion="422eda40ce8b8348a400be71287c49e700000000"/>
 		<Metadata name="CommonModule.РаботаСИнтерфейсом.Module" id="fe610532-debc-4952-93a8-266823cc4c92.0" configVersion="8087d1286ad1b34cb60a4aa451671f0000000000"/>
-		<Metadata name="CommonModule.РаботаСПочтовымиСообщениями" id="4cac6196-8703-431a-bb8f-7979e7002f58" configVersion="37a70c450306d24b90b78b3d78396c2600000000"/>
-		<Metadata name="CommonModule.РаботаСПочтовымиСообщениями.Module" id="4cac6196-8703-431a-bb8f-7979e7002f58.0" configVersion="0e6eb53f1253f64eb51c809210de5dae00000000"/>
+		<Metadata name="CommonModule.РаботаСПочтовымиСообщениями" id="4cac6196-8703-431a-bb8f-7979e7002f58" configVersion="33f3fcc5d1ca01439a6772f641d0bfc700000000"/>
+		<Metadata name="CommonModule.РаботаСПочтовымиСообщениями.Module" id="4cac6196-8703-431a-bb8f-7979e7002f58.0" configVersion="444a53584227bc488ba6b5a24119380500000000"/>
 		<Metadata name="CommonModule.РазборФайловHTML" id="2c0bbdfa-2b44-4b43-8f3f-fb78f06ea7b1" configVersion="b2951ba35aea574cb68faa1fc0ca39ee00000000"/>
 		<Metadata name="CommonModule.РазборФайловHTML.Module" id="2c0bbdfa-2b44-4b43-8f3f-fb78f06ea7b1.0" configVersion="f32072373521674bbc3eb1f04eaf58f900000000"/>
 		<Metadata name="CommonModule.РазборФайловXML" id="e8f43097-1934-4255-b1c7-945ee452129c" configVersion="69019328955ebf478286c01d62d7135600000000"/>
@@ -524,12 +524,12 @@
 		<Metadata name="CommonTemplate.СловарьВерныхСлов.Template" id="80a9e5e2-90d8-4d9d-b28b-3523901d9fc5.0" configVersion="88fc792a5132784c813bbf22ee9e684800000000"/>
 		<Metadata name="CommonTemplate.СоставПравилПроверки" id="bcbb1939-a6e9-486e-bee8-58471059e80d" configVersion="42eafaaf87266049b60a63b16b160b3e00000000"/>
 		<Metadata name="CommonTemplate.СоставПравилПроверки.Template" id="bcbb1939-a6e9-486e-bee8-58471059e80d.0" configVersion="25d094aacc0b684daff1eaabde92056600000000"/>
-		<Metadata name="Configuration.АвтоматизированнаяПроверкаКонфигураций" id="f878f912-2042-47b7-8ef7-26d9a9b94fd1" configVersion="fd0e433dcdf79a458e23a7581a7a06a500000000"/>
+		<Metadata name="Configuration.АвтоматизированнаяПроверкаКонфигураций" id="f878f912-2042-47b7-8ef7-26d9a9b94fd1" configVersion="95521f37a7184747870892905aed64de00000000"/>
 		<Metadata name="Configuration.АвтоматизированнаяПроверкаКонфигураций.ExternalConnectionModule" id="e09ca79c-307c-4cbb-920b-486caf5a5d79.5" configVersion="51e3a846c8f0174f9cab77f07173578f00000000"/>
 		<Metadata name="Configuration.АвтоматизированнаяПроверкаКонфигураций.Help" id="e09ca79c-307c-4cbb-920b-486caf5a5d79.3" configVersion="e5a9ed8a602e2a4ea53cead593f2306800000000"/>
 		<Metadata name="Configuration.АвтоматизированнаяПроверкаКонфигураций.Logo" id="e09ca79c-307c-4cbb-920b-486caf5a5d79.1" configVersion="d65e061d48db6945982540a17a39631100000000"/>
 		<Metadata name="Configuration.АвтоматизированнаяПроверкаКонфигураций.OrdinaryApplicationModule" id="e09ca79c-307c-4cbb-920b-486caf5a5d79.0" configVersion="5b41d0cab7b8a7458d6181b1c6e07d4f00000000"/>
-		<Metadata name="Configuration.АвтоматизированнаяПроверкаКонфигураций.ParentConfigurations" id="e09ca79c-307c-4cbb-920b-486caf5a5d79.4" configVersion="61567969dc28e14ba813991091a714f600000000"/>
+		<Metadata name="Configuration.АвтоматизированнаяПроверкаКонфигураций.ParentConfigurations" id="e09ca79c-307c-4cbb-920b-486caf5a5d79.4" configVersion="8c3e213748b1ac499fd5f1f309b9715900000000"/>
 		<Metadata name="Configuration.АвтоматизированнаяПроверкаКонфигураций.SessionModule" id="e09ca79c-307c-4cbb-920b-486caf5a5d79.7" configVersion="a02e11b113aca54ba239cc7e94b19a8a00000000"/>
 		<Metadata name="Configuration.АвтоматизированнаяПроверкаКонфигураций.Splash" id="e09ca79c-307c-4cbb-920b-486caf5a5d79.2" configVersion="3994085052332d4bbe95411a8928416100000000"/>
 		<Metadata name="Constant.АдресВебСервисаСППР" id="8e72b574-95f5-4385-bcd0-322eaa31c1df" configVersion="2aafaa39361d2e45a6bdb3896d9ba55000000000"/>
