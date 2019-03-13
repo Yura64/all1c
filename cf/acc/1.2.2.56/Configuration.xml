@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5">
+	<Configuration uuid="f878f912-2042-47b7-8ef7-26d9a9b94fd1">
+		<InternalInfo>
+			<xr:ContainedObject>
+				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
+				<xr:ObjectId>e09ca79c-307c-4cbb-920b-486caf5a5d79</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
+				<xr:ObjectId>bded194d-7a38-4158-b25a-e1c8563c1bad</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
+				<xr:ObjectId>5a4cd956-029f-4fca-91e1-739c4c6830fa</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
+				<xr:ObjectId>99d94eea-e2c2-4e4b-89c4-d75ba15052ba</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
+				<xr:ObjectId>ccfdf7ea-bab3-49eb-8845-8742975ab702</xr:ObjectId>
+			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
+				<xr:ObjectId>27d3fa7a-8aa8-4f5d-aa7a-4aa8aad2f5e7</xr:ObjectId>
+			</xr:ContainedObject>
+		</InternalInfo>
+		<Properties>
+			<Name>АвтоматизированнаяПроверкаКонфигураций</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Автоматизированная проверка конфигураций, редакция 1.2</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<NamePrefix/>
+			<ConfigurationExtensionCompatibilityMode>Version8_3_11</ConfigurationExtensionCompatibilityMode>
+			<DefaultRunMode>OrdinaryApplication</DefaultRunMode>
+			<UsePurposes>
+				<v8:Value xsi:type="app:ApplicationUsePurpose">PersonalComputer</v8:Value>
+			</UsePurposes>
+			<ScriptVariant>Russian</ScriptVariant>
+			<DefaultRoles>
+				<xr:Item xsi:type="xr:MDObjectRef">Role.ПолныеПрава</xr:Item>
+			</DefaultRoles>
+			<Vendor>Фирма "1С"</Vendor>
+			<Version>1.2.2.56</Version>
+			<UpdateCatalogAddress>http://downloads.v8.1c.ru/tmplts/</UpdateCatalogAddress>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<UseManagedFormInOrdinaryApplication>true</UseManagedFormInOrdinaryApplication>
+			<UseOrdinaryFormInManagedApplication>false</UseOrdinaryFormInManagedApplication>
+			<AdditionalFullTextSearchDictionaries/>
+			<CommonSettingsStorage/>
+			<ReportsUserSettingsStorage/>
+			<ReportsVariantsStorage/>
+			<FormDataSettingsStorage/>
+			<DynamicListsUserSettingsStorage/>
+			<Content/>
+			<DefaultReportForm/>
+			<DefaultReportVariantForm/>
+			<DefaultReportSettingsForm/>
+			<DefaultDynamicListSettingsForm/>
+			<DefaultSearchForm/>
+			<RequiredMobileApplicationPermissions>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Multimedia</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Location</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Contacts</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Calendars</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Telephony</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">PushNotification</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">LocalNotification</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Print</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">InAppPurchases</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">Ads</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">BackgroundLocation</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">BackgroundAudioPlayback</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+				<v8:pair>
+					<v8:Key xsi:type="app:RequiredMobileApplicationPermissions">FileExchangeWithPersonalComputer</v8:Key>
+					<v8:Value xsi:type="xs:boolean">false</v8:Value>
+				</v8:pair>
+			</RequiredMobileApplicationPermissions>
+			<MainClientApplicationWindowMode>Normal</MainClientApplicationWindowMode>
+			<DefaultInterface>Interface.Полный</DefaultInterface>
+			<DefaultStyle>Style.Основной</DefaultStyle>
+			<DefaultLanguage>Language.Русский</DefaultLanguage>
+			<BriefInformation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Автоматизированная проверка конфигураций, редакция 1.2</v8:content>
+				</v8:item>
+			</BriefInformation>
+			<DetailedInformation>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Автоматизированная проверка конфигураций, редакция 1.2</v8:content>
+				</v8:item>
+			</DetailedInformation>
+			<Copyright>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Copyright (C) ООО "1С-Софт", 2009-2019. Все права защищены</v8:content>
+				</v8:item>
+			</Copyright>
+			<VendorInformationAddress>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>http://www.1c.ru</v8:content>
+				</v8:item>
+			</VendorInformationAddress>
+			<ConfigurationInformationAddress>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>http://v8.1c.ru/acc/</v8:content>
+				</v8:item>
+			</ConfigurationInformationAddress>
+			<DataLockControlMode>Managed</DataLockControlMode>
+			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
+			<ModalityUseMode>Use</ModalityUseMode>
+			<SynchronousPlatformExtensionAndAddInCallUseMode>Use</SynchronousPlatformExtensionAndAddInCallUseMode>
+			<InterfaceCompatibilityMode>Version8_2</InterfaceCompatibilityMode>
+			<CompatibilityMode>Version8_3_10</CompatibilityMode>
+			<DefaultConstantsForm>CommonForm.НастройкаПараметров</DefaultConstantsForm>
+		</Properties>
+		<ChildObjects>
+			<Language>Русский</Language>
+			<Subsystem>ИнтеграцияССППР</Subsystem>
+			<StyleItem>ТекстВторостепеннойНадписи</StyleItem>
+			<StyleItem>ТекстИнформационнойНадписи</StyleItem>
+			<StyleItem>ТекстПредупреждающейНадписи</StyleItem>
+			<StyleItem>ФонВыделенияСтроки</StyleItem>
+			<StyleItem>ФонГруппировкиВерхнегоУровня</StyleItem>
+			<StyleItem>ФонГруппировкиПромежуточногоУровня</StyleItem>
+			<StyleItem>ФонЭпицентра</StyleItem>
+			<StyleItem>ЦветГиперссылки</StyleItem>
+			<StyleItem>ЦветКолонкиДляСчетовИСубконтоБУ</StyleItem>
+			<StyleItem>ЦветКолонкиДляСчетовИСубконтоНУ</StyleItem>
+			<StyleItem>ЦветРамкиЭпицентра</StyleItem>
+			<StyleItem>ЦветФонаЧередованияСтрок</StyleItem>
+			<StyleItem>ШрифтВажнойНадписи</StyleItem>
+			<StyleItem>ШрифтТекстаКомментария</StyleItem>
+			<Style>Основной</Style>
+			<CommonPicture>ВерсияКонфигурации</CommonPicture>
+			<CommonPicture>ВертикальнаяТочкаВерх</CommonPicture>
+			<CommonPicture>ВертикальнаяТочкаНиз</CommonPicture>
+			<CommonPicture>ВыгрузкаОтветственных</CommonPicture>
+			<CommonPicture>ГоризонтальнаяТочкаЛево</CommonPicture>
+			<CommonPicture>ГоризонтальнаяТочкаПраво</CommonPicture>
+			<CommonPicture>Группа</CommonPicture>
+			<CommonPicture>ГруппаПравил</CommonPicture>
+			<CommonPicture>ДлительнаяОперация24</CommonPicture>
+			<CommonPicture>ДлительнаяОперация48</CommonPicture>
+			<CommonPicture>ЗагрузкаОтветственных</CommonPicture>
+			<CommonPicture>Задание</CommonPicture>
+			<CommonPicture>ЗапускПроверки</CommonPicture>
+			<CommonPicture>Инициализация</CommonPicture>
+			<CommonPicture>Конфигурация</CommonPicture>
+			<CommonPicture>ЛевыйВерхний</CommonPicture>
+			<CommonPicture>ЛевыйНижний</CommonPicture>
+			<CommonPicture>ОбщиеОсобенности</CommonPicture>
+			<CommonPicture>Особенности</CommonPicture>
+			<CommonPicture>Ответственный</CommonPicture>
+			<CommonPicture>Ошибка</CommonPicture>
+			<CommonPicture>Правило</CommonPicture>
+			<CommonPicture>ПравыйВерхний</CommonPicture>
+			<CommonPicture>ПравыйНижний</CommonPicture>
+			<CommonPicture>Предупреждение</CommonPicture>
+			<CommonPicture>ПримерФайлаОтветственных</CommonPicture>
+			<CommonPicture>Проверка</CommonPicture>
+			<CommonPicture>ПросмотрСвойств</CommonPicture>
+			<CommonPicture>РабочийСтолЗадания</CommonPicture>
+			<CommonPicture>РабочийСтолЗаданияАктивно</CommonPicture>
+			<CommonPicture>РабочийСтолОтчеты</CommonPicture>
+			<CommonPicture>РабочийСтолОтчетыАктивно</CommonPicture>
+			<CommonPicture>РабочийСтолОшибки</CommonPicture>
+			<CommonPicture>РабочийСтолОшибкиАктивно</CommonPicture>
+			<CommonPicture>РабочийСтолПроверки</CommonPicture>
+			<CommonPicture>РабочийСтолПроверкиАктивно</CommonPicture>
+			<CommonPicture>РабочийСтолТребования</CommonPicture>
+			<CommonPicture>РабочийСтолТребованияАктивно</CommonPicture>
+			<CommonPicture>СтруктураКонфигурации</CommonPicture>
+			<CommonPicture>ТекстСтандарта</CommonPicture>
+			<CommonPicture>ТипыОбъектов</CommonPicture>
+			<CommonPicture>Требование</CommonPicture>
+			<CommonPicture>Успешно</CommonPicture>
+			<CommonPicture>ФонЗапускаПроверки</CommonPicture>
+			<Interface>Общий</Interface>
+			<Interface>Полный</Interface>
+			<SessionParameter>СписокСсылокПравила</SessionParameter>
+			<SessionParameter>СписокСсылокТребования</SessionParameter>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<Role>Аудитор</Role>
+			<Role>ПолныеПрава</Role>
+			<Role>Пользователь</Role>
+			<Role>РазработчикПравилПроверок</Role>
+			<CommonTemplate>ОбновлениеКонфигурации</CommonTemplate>
+			<CommonTemplate>ОписаниеИзмененийПрограммы</CommonTemplate>
+			<CommonTemplate>ПутиОбъектовВыгрузкиXML</CommonTemplate>
+			<CommonTemplate>СвойстваМакетов</CommonTemplate>
+			<CommonTemplate>СвойстваОбъектовМетаданных</CommonTemplate>
+			<CommonTemplate>СвойстваФорм</CommonTemplate>
+			<CommonTemplate>СловарьВерныхСлов</CommonTemplate>
+			<CommonTemplate>СоставПравилПроверки</CommonTemplate>
+			<CommonModule>Глобальный</CommonModule>
+			<CommonModule>ДлительныеОперации</CommonModule>
+			<CommonModule>ДлительныеОперацииВызовСервера</CommonModule>
+			<CommonModule>ДлительныеОперацииКлиент</CommonModule>
+			<CommonModule>ДоступК1СПредприятию</CommonModule>
+			<CommonModule>ДоступККонфигуратору</CommonModule>
+			<CommonModule>ЗапускИзКоманднойСтроки</CommonModule>
+			<CommonModule>ЗапускИзКоманднойСтрокиКлиент</CommonModule>
+			<CommonModule>ИмпортЭкспортКлиент</CommonModule>
+			<CommonModule>ИнтеграцияССППР</CommonModule>
+			<CommonModule>ИнтеграцияССППРПовтИсп</CommonModule>
+			<CommonModule>ОбновлениеИнформационнойБазы</CommonModule>
+			<CommonModule>ОтборОбъектов</CommonModule>
+			<CommonModule>Проверка</CommonModule>
+			<CommonModule>РаботаВБезопасномРежиме</CommonModule>
+			<CommonModule>РаботаСВнешнимСоединением</CommonModule>
+			<CommonModule>РаботаСИнтерфейсом</CommonModule>
+			<CommonModule>РаботаСПочтовымиСообщениями</CommonModule>
+			<CommonModule>РазборФайловHTML</CommonModule>
+			<CommonModule>РазборФайловXML</CommonModule>
+			<CommonModule>УдалениеПомеченныхОбъектовСлужебный</CommonModule>
+			<CommonModule>УправлениеРасписанием</CommonModule>
+			<WebService>ErrorsExchange</WebService>
+			<EventSubscription>ОбработкаУдаленияПроведенияПроверкаВерсии</EventSubscription>
+			<EventSubscription>ПередЗаписьюДокумента</EventSubscription>
+			<ScheduledJob>УведомленияОтветственных</ScheduledJob>
+			<ScheduledJob>УдалениеПомеченных</ScheduledJob>
+			<SettingsStorage>ХранилищеОбщихНастроек</SettingsStorage>
+			<FunctionalOption>ИспользоватьИнтеграциюССППР</FunctionalOption>
+			<Constant>АдресВебСервисаСППР</Constant>
+			<Constant>АдресЭлектроннойПочты</Constant>
+			<Constant>ГруппаТребованийОрфографии</Constant>
+			<Constant>ДатаЗапретаРедактирования</Constant>
+			<Constant>ИмяОтправителя</Constant>
+			<Constant>ИспользоватьИнтеграциюССППР</Constant>
+			<Constant>НомерВерсииКонфигурации</Constant>
+			<Constant>ПараметрыПодключенияСППР</Constant>
+			<Constant>ПарольЭлектроннойПочты</Constant>
+			<Constant>ПользовательИсходящейПочты</Constant>
+			<Constant>ПортSMTP</Constant>
+			<Constant>СерверИсходящейПочтыSMTP</Constant>
+			<CommonForm>ВводЗаданийПоВерсии</CommonForm>
+			<CommonForm>НастройкаПараметров</CommonForm>
+			<CommonForm>НастройкаРасписанияУдаленияПомеченных</CommonForm>
+			<CommonForm>НастройкиПользователя</CommonForm>
+			<CommonForm>ОписаниеИзмененийПрограммы</CommonForm>
+			<CommonForm>РабочийСтол</CommonForm>
+			<CommonForm>ФормаHTMLПросмотр</CommonForm>
+			<CommonForm>ФормаВводаКомментария</CommonForm>
+			<CommonForm>ФормаНазначенияОсобенности</CommonForm>
+			<CommonForm>ФормаНазначенияСпискаОсобенностей</CommonForm>
+			<CommonForm>ФормаНастроекОтчета</CommonForm>
+			<CommonForm>ФормаРегистрацииОшибокВСППР</CommonForm>
+			<CommonForm>ФормаСоответствияОшибокИТребований</CommonForm>
+			<Catalog>ВариантыПроверки</Catalog>
+			<Catalog>Версии</Catalog>
+			<Catalog>Дополнения</Catalog>
+			<Catalog>Конфигурации</Catalog>
+			<Catalog>ОбнаруживаемыеОшибки</Catalog>
+			<Catalog>Ответственные</Catalog>
+			<Catalog>Пользователи</Catalog>
+			<Catalog>Правила</Catalog>
+			<Catalog>ПричиныОсобенности</Catalog>
+			<Catalog>Расширения</Catalog>
+			<Catalog>СтруктураКонфигурации</Catalog>
+			<Catalog>Требования</Catalog>
+			<Document>Задание</Document>
+			<Document>ПроверкаВерсии</Document>
+			<DocumentNumerator>Общий</DocumentNumerator>
+			<DocumentJournal>Проверки</DocumentJournal>
+			<Enum>ВидыГруппировокСППР</Enum>
+			<Enum>ВидыИсключенийИзПроверки</Enum>
+			<Enum>ИдентификаторыСодержанияОбъектов</Enum>
+			<Enum>КатегорияТребований</Enum>
+			<Enum>СостояниеОшибки</Enum>
+			<Enum>СпособПроверки</Enum>
+			<Enum>СтатусыТребований</Enum>
+			<Enum>ТипПроверки</Enum>
+			<Enum>ТипыБлоковМодулей</Enum>
+			<Enum>ТипыОбъектов</Enum>
+			<Enum>УровниКритичностиОшибок</Enum>
+			<Enum>ЭлементыМакетов</Enum>
+			<Enum>ЭлементыУправления</Enum>
+			<Enum>ЭтапыПроверки</Enum>
+			<Report>КартаПокрытияСтандартов</Report>
+			<Report>НайденныеОшибки</Report>
+			<Report>РезультатыРаботы</Report>
+			<DataProcessor>АктуализацияСловаря</DataProcessor>
+			<DataProcessor>ВыгрузкаОтветственных</DataProcessor>
+			<DataProcessor>ЗагрузкаОтветственных</DataProcessor>
+			<DataProcessor>ЗапускПроверки</DataProcessor>
+			<DataProcessor>НазначениеОтветственных</DataProcessor>
+			<DataProcessor>НазначениеОтветственныхПоПодсистемам</DataProcessor>
+			<DataProcessor>ОбновлениеТребованийИПравилПроверки</DataProcessor>
+			<DataProcessor>ОтладчикПравилПроверки</DataProcessor>
+			<DataProcessor>ПросмотрСвойств</DataProcessor>
+			<DataProcessor>СборДанных</DataProcessor>
+			<DataProcessor>СоединительСДополнением</DataProcessor>
+			<DataProcessor>УниверсальныйОбменДаннымиXML</DataProcessor>
+			<DataProcessor>Ядро</DataProcessor>
+			<InformationRegister>ВерныеСлова</InformationRegister>
+			<InformationRegister>ВерсииОбъектов</InformationRegister>
+			<InformationRegister>ЗначенияСвойствОбъектов</InformationRegister>
+			<InformationRegister>ЗначенияСоставныхСвойствОбъектов</InformationRegister>
+			<InformationRegister>ЗначенияФлажковРолей</InformationRegister>
+			<InformationRegister>КомментарииНайденныхОшибок</InformationRegister>
+			<InformationRegister>НайденныеОшибки</InformationRegister>
+			<InformationRegister>НастройкиПользователя</InformationRegister>
+			<InformationRegister>ОтветственныеЗаПодсистемы</InformationRegister>
+			<InformationRegister>ОшибкиПримененияРасширений</InformationRegister>
+			<InformationRegister>ОшибкиПроверкиКонфигурации</InformationRegister>
+			<InformationRegister>ТребованияККонфигурации</InformationRegister>
+			<InformationRegister>УведомленияОтветственных</InformationRegister>
+			<InformationRegister>УстановленныеПричиныОсобенностей</InformationRegister>
+			<InformationRegister>УточнениеПроверок</InformationRegister>
+			<InformationRegister>УдалитьОбъектыСОшибками</InformationRegister>
+			<InformationRegister>УдалитьОсобенности</InformationRegister>
+		</ChildObjects>
+	</Configuration>
+</MetaDataObject>

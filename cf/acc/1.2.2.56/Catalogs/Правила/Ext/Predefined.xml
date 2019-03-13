@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.5">
+	<Item id="41f3e122-43f2-4ae3-9844-0ba702a27ffb">
+		<Name>Аудит</Name>
+		<Code>Аудит    </Code>
+		<Description>Аудит решения</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="cf0b4d50-e224-43af-90ed-70f22cf135f2">
+		<Name>Интерфейс</Name>
+		<Code>Интерфейс</Code>
+		<Description>Проверка интерфейса</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="6ff03070-4089-46f0-848e-b85aa22b3e70">
+		<Name>ТестированиеФункциональности</Name>
+		<Code>Функ.    </Code>
+		<Description>Тестирование функциональности</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

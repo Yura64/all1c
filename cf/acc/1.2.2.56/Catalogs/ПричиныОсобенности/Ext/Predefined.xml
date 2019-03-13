@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.5">
+	<Item id="bc1aad34-dc23-4098-a491-db6a54310855">
+		<Name>НеполныйОрфографическийСловарь</Name>
+		<Code>000000001</Code>
+		<Description>Неполный орфографический словарь</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="33b76c90-df8a-4849-9531-ba98f76a8374">
+		<Name>ТехническийДолг</Name>
+		<Code>000000002</Code>
+		<Description>Технический долг (определена автоматически)</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

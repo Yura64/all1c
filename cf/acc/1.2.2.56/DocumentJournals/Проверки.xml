@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5">
+	<DocumentJournal uuid="fb526ce9-a084-4384-ab9a-ee93b0f33b5e">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentJournalSelection.Проверки" category="Selection">
+				<xr:TypeId>e7e2e3d9-6ca4-40f5-8bab-ce906e7e4350</xr:TypeId>
+				<xr:ValueId>f907ef13-a280-4cb4-96d8-354212b242e7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentJournalList.Проверки" category="List">
+				<xr:TypeId>0f4e48a3-26a2-4403-896b-f118677a74dc</xr:TypeId>
+				<xr:ValueId>b0b8afa6-7e57-4d5e-b324-3e526d572bad</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentJournalManager.Проверки" category="Manager">
+				<xr:TypeId>057fdd9e-27d7-4149-b3b5-d61e9f405524</xr:TypeId>
+				<xr:ValueId>b4e47b9a-81c9-4356-9df2-acf998d176f5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>Проверки</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Проверки</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<DefaultForm/>
+			<AuxiliaryForm/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<RegisteredDocuments>
+				<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии</xr:Item>
+			</RegisteredDocuments>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+		</Properties>
+		<ChildObjects>
+			<Column uuid="14ea0fad-66a3-4315-8a2f-2ba379e0967d">
+				<Properties>
+					<Name>Конфигурация</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Конфигурация</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>Index</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии.Attribute.Конфигурация</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="912eb0fe-359d-4d0e-860d-161e931f1ab8">
+				<Properties>
+					<Name>ВерсияАПК</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Версия АПК</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии.Attribute.ВерсияАПК</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="2c8ac1f9-651d-443d-8f0b-a0f88df851e5">
+				<Properties>
+					<Name>ВерсияКонфигурации</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Версия конфигурации</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии.Attribute.ВерсияКонфигурации</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="530e4cac-5290-478b-912c-b45bc7b8e8e9">
+				<Properties>
+					<Name>ВерсияПлатформы</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Версия платформы</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии.Attribute.ВерсияПлатформы</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="46c73482-6af4-4df4-b07c-8201271a52db">
+				<Properties>
+					<Name>ВерсияХранилища</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Версия хранилища</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии.Attribute.ВерсияХранилища</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="33dcc578-3937-4b5a-bc69-aea803bc3982">
+				<Properties>
+					<Name>Ответственный</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ответственный</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии.Attribute.Ответственный</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="5578b8c2-a332-4197-8b93-c2a7d3c2fd67">
+				<Properties>
+					<Name>ОбщееВремя</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Длительность</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии.Attribute.ОбщееВремя</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="7257d641-590f-46b5-a1f5-6cd3bd743481">
+				<Properties>
+					<Name>ОбнаруженоОшибок</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Обнаружено ошибок</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии.Attribute.ОбнаруженоОшибок</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="7b4b92ca-9172-420e-9aed-b503d9680a4b">
+				<Properties>
+					<Name>ВариантПроверки</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Вариант проверки</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии.Attribute.ВариантПроверки</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="1e70990d-64d2-4932-949c-b84da13366d3">
+				<Properties>
+					<Name>ПроверяемыеОбъекты</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Проверяемые объекты</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии.Attribute.ПроверяемыеОбъекты</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+			<Column uuid="c233156d-672a-457a-8d62-b16e147868aa">
+				<Properties>
+					<Name>Статус</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Статус</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Indexing>DontIndex</Indexing>
+					<References>
+						<xr:Item xsi:type="xr:MDObjectRef">Document.ПроверкаВерсии.Attribute.Статус</xr:Item>
+					</References>
+				</Properties>
+			</Column>
+		</ChildObjects>
+	</DocumentJournal>
+</MetaDataObject>

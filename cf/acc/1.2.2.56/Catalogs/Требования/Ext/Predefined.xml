@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.5">
+	<Item id="76eb8566-7306-4bdd-a330-ff6c2a7ca611">
+		<Name>Совместимо</Name>
+		<Code xsi:type="xs:decimal">3</Code>
+		<Description>1С:Совместимо (1С:Предприятие 8.3)</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="be5abded-6d48-4ce1-8109-414f3c0cd722">
+		<Name>Орфография</Name>
+		<Code xsi:type="xs:decimal">2</Code>
+		<Description>Орфография</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="5f56b6bd-2990-44a1-9131-bd116ee3fb13">
+		<Name>СистемаСтандартов</Name>
+		<Code xsi:type="xs:decimal">1</Code>
+		<Description>Система стандартов</Description>
+		<IsFolder>true</IsFolder>
+	</Item>
+	<Item id="e147e3e4-3f86-4fa2-946b-36738a1ed658">
+		<Name>ПлатформеннаяПроверкаКонфигурации</Name>
+		<Code xsi:type="xs:decimal">10</Code>
+		<Description>Платформенная проверка конфигурации</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

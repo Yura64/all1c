@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.5">
+	<Enum uuid="0fc23d13-c7cf-40c9-ba92-52143ff74ad0">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.ЭлементыМакетов" category="Ref">
+				<xr:TypeId>8b73ccee-354f-4b12-b5a6-7df10adb79c9</xr:TypeId>
+				<xr:ValueId>4bfba55e-bb66-4437-bdd1-e13b6efbe9ae</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.ЭлементыМакетов" category="Manager">
+				<xr:TypeId>583e6dab-3254-4fad-b42f-5c763e0ea3f9</xr:TypeId>
+				<xr:ValueId>9d84dfa5-69ea-46be-b666-e57b1d80d0ae</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.ЭлементыМакетов" category="List">
+				<xr:TypeId>3c41c9f3-474b-4f1c-8e1c-0d62b6cca1d4</xr:TypeId>
+				<xr:ValueId>7e49404f-98f9-4025-8ba4-6bbc9a1a3127</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ЭлементыМакетов</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Элементы макетов</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>true</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="2e3745af-3b6c-4a46-82a8-64f7d16cd148">
+				<Properties>
+					<Name>ОбластьТабличногоДокумента</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Область табличного документа</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="f9f23ad4-4f48-408e-87b9-77dbf1720c81">
+				<Properties>
+					<Name>Рисунок</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Рисунок</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="8405c3c6-00a8-4764-a6eb-455f8537770e">
+				<Properties>
+					<Name>КолонтитулТабличногоДокумента</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Колонтитул табличного документа</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="af138b1e-0ca0-42c9-b824-a1e168c43bd3">
+				<Properties>
+					<Name>СлойГеографическойСхемы</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Слой географической схемы</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="bda44d17-e7c5-45f1-9703-204f7a243d34">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыСоединительнаяЛиния</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы соединительная линия</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="bdd8c228-a466-44fb-89d1-aae085819c2a">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыДекоративнаяЛиния</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы декоративная линия</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="609f0dc6-5100-4da7-9db8-43313ab315f8">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыДекорация</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы декорация</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="4e2355aa-408e-4fc2-8d33-09c336fb7a51">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыДействие</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы действие</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="d70de58a-579d-4c03-883d-d4a10a140c28">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыРазделение</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы разделение</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="85fd3bda-db12-42a1-9906-d7a1d933d7fd">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыУсловие</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы условие</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="fb87a007-fa89-4103-a269-d5bc6a32977c">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыЗавершение</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы завершение</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="4a8d4de4-3c57-4019-a257-0969a70110e1">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыСтарт</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы старт</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="f9bb60fd-52e1-4ee9-9e1f-95af96fe97ea">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыСлияние</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы слияние</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="44f36c42-fd3d-46db-a2b6-03769c7de577">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыВложенныйБизнесПроцесс</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы вложенный бизнес процесс</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="2d320ee5-2243-4673-9a7f-3182d07f516d">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыОбработка</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы обработка</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="7888b8df-3b7e-4e57-aff9-0410764088d9">
+				<Properties>
+					<Name>ЭлементГрафическойСхемыВыборВарианта</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Элемент графической схемы выбор варианта</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="81da80d4-83ea-47f1-8c2b-66219a00cfcd">
+				<Properties>
+					<Name>ВариантЭлементаГрафическойСхемыВыборВарианта</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Вариант элемента графической схемы выбор варианта</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

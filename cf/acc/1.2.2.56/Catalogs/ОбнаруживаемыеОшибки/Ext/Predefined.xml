@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.5">
+	<Item id="f4923445-8556-408a-9ee3-07df58965b11">
+		<Name>ОшибкаИнтерфейса</Name>
+		<Code>АПК_Интерфейс</Code>
+		<Description>Ошибка, найденная в интерефейсе решения</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="678273df-1f57-4c5d-bdec-01b1a1c173fa">
+		<Name>ОшибкаАудита</Name>
+		<Code>АПК_Аудит    </Code>
+		<Description>Ошибка, найденная при аудите решения</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="f6851adb-0893-476e-ad3b-ef519b553315">
+		<Name>ОшибкаФункциональности</Name>
+		<Code>АПК_Функц.   </Code>
+		<Description>Ошибка, найденная при проверке функциональности</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

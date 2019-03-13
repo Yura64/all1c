@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.5">
+	<Item id="41557af0-959a-427d-a1e9-e343a4655e47">
+		<Name>Совместимо</Name>
+		<Code>000000002</Code>
+		<Description>1С:Совместимо</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="913e1af0-ffc8-4a68-8ee2-f4085e41608f">
+		<Name>ПолнаяПроверка</Name>
+		<Code>000000001</Code>
+		<Description>Полная проверка</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>
